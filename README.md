@@ -235,6 +235,3 @@ The project highlights the ability to transform raw data into meaningful insight
 **Bhanu**
 
 Data Analytics | Python | SQL | Power BI
-
-gttr5qwe
-
