@@ -111,7 +111,7 @@ The Power BI dashboard provides an interactive view of the key metrics and findi
 
 ![Power BI Dashboard](dashboard.png)
 
-> Replace `dashboard.png` with the actual screenshot of your Power BI dashboard.
+
 
 ---
 
